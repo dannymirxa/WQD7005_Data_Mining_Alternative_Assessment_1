@@ -60,4 +60,4 @@ We will connect File Import node to StatExplore and run it. By running the node,
 
 From the result, we can see CREDIT_LIMIIT is missing 1 data while MINIMUM_PAYMENTS lost 313 data similar in Talend Data Preparation.
 
-**The diagram of this SAS miner project is stored **
+**The diagram of this SAS miner project is stored**
